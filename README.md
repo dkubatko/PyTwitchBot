@@ -1,12 +1,12 @@
-## PyTwichBot
+# PyTwichBot
 
 Welcome to PyTwitchBot decsription & documentation page.
 PyTwitchBot is a twitch.tv chat bot written in Python 2.7. It contains several very interesting functions that allow you to interact with your viewers in a unique way. Below you can see documentation for each method and simple instructions how to set up PyTwitchBot.
 
 ## Set-up
-# Running .exe
+### Running .exe
 The only thing you need to do is to run PyTwitchBot.exe file and specify channel's name when program asks for it, or
-# Running .py
+### Running .py
 You can call PyTwitchBot.py file from your command prompt:
 ```
 python PyTwitchBot.py [channel's name]
