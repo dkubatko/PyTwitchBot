@@ -77,6 +77,7 @@ If poll existed before the call, stops it and returns the result
 > PyTwitchBot: Vote ended. Results: 1: 55%, 2: 45%, 3: 0%, @drazzzer
 ```
 Example of the picture output:
+
 ![Image](https://pp.vk.me/c636421/v636421947/40ecf/X0K8JeRg7xo.jpg)
 
 #### Called by a viewer
