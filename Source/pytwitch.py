@@ -28,8 +28,8 @@ print("Verson: v" + VERSION + "\nAuthor: " + AUTHOR)
 print ("Connecting to VK api...")
 failed_vk = False
 try:
-    session = vk.AuthSession(app_id = '5813182', user_login = '89296301367',
-                             user_password = 'danjusha', scope = "status, wall")
+    session = vk.AuthSession(app_id = 'XXXXXX', user_login = 'XXXXXXXXXXXX',
+                             user_password = 'XXXXXX', scope = "status, wall")
     api = vk.API(session)
     print "Successful"
 except:
